@@ -10,6 +10,9 @@ In Snow Leopard, Monaco is my usual default font. I really like it but it's a li
 
 Edlo is the marriage of these edits and Mr. Hartke's original vision. The zero now has a dot in the middle of it, and the lowercase el has its left leg chopped off, making all of these characters unique.
 
+h3. Installation
+
+Click "Downloads" at the top right, then download the zipped source (.tar.gz or .zip). Unarchive and install "edlo.ttf" on your local machine.
 
 h3. Copyright and Trademark Information
 
