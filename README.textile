@@ -1,0 +1,39 @@
+h1. About Edlo
+
+!imageurl!:http://i.imgur.com/RcLJZ.png
+
+h3. Version 1.00
+
+Edlo is a customized version of Stephen G. Hartke's 
+"Aurulent Sans":http://www.dafont.com/aurulent-sans-mono.font.
+
+
+In Snow Leopard, Monaco is my usual default font. 
+I really like it but it's a little too close to Comic Sans, which I 
+just can't take seriously.
+
+v1.0
+
+Added a dotted zero version of Meslo LG which is called Meslo LG DZ.
+
+h3. Copyright and Trademark Information
+
+Menlo is a Trademark of Apple Inc. 
+Bitstream Vera is a trademark of Bitstream, Inc., designed by Jim Lyles.
+
+Menlo-Regular:
+
+Copyright © 2009 Apple Inc. 
+Copyright © 2006 by Tavmjong Bah. 
+Copyright © 2003 by Bitstream, Inc. All Rights Reserved.
+
+All other brands and product names not specifically listed are trademarks or 
+registered trademarks of their respective owners.
+
+
+h3. License
+
+To my understanding, Mr. Hartke's license allows modification as long as 
+the license continues and the font is renamed. This font is free to use 
+and free to distribute, but the original license cannot be changed.
+
