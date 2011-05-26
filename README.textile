@@ -1,6 +1,6 @@
 h1. About Edlo
 
-!imageurl!:https://github.com/ehamiter/Edlo/raw/master/edlo.png
+!https://github.com/ehamiter/Edlo/raw/master/edlo.png!
 
 h3. Version 1.00
 
