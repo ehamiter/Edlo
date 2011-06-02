@@ -14,6 +14,25 @@ h3. Installation
 
 Click "Downloads" at the top right, then download the zipped source (.tar.gz or .zip). Unarchive and install "edlo.ttf" on your local machine.
 
+h3. Sublime Text 2 Specific
+
+I have these options set up for my User File Preferences:
+
+bc.{
+	"color_scheme": "Packages/Color Scheme - Default/Tomorrow-Night.tmTheme",
+	"fallback_encoding": "UTF-8",
+	"font_face": "Edlo",
+	"font_options":
+	[
+		"gray_antialias"
+	],
+	"font_size": 14,
+	"spell_check": false,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false
+}
+
+
 h3. Copyright and Trademark Information
 
 Aurulent Sans: Copyright © 2007 Stephen G. Hartke
