@@ -18,7 +18,7 @@ h3. Sublime Text 2 Specific
 
 I have these options set up for my User File Preferences:
 
-bc.{
+bc. {
 	"color_scheme": "Packages/Color Scheme - Default/Tomorrow-Night.tmTheme",
 	"fallback_encoding": "UTF-8",
 	"font_face": "Edlo",
