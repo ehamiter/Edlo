@@ -4,9 +4,7 @@ h1. About Edlo
 
 h3. Version 1.00
 
-Edlo is a modified version of Stephen G. Hartke's "Aurulent Sans":http://www.dafont.com/aurulent-sans-mono.font.
-
-In Snow Leopard, Monaco is my usual default font. I really like it but it's a little too close to Comic Sans, which I just can't take seriously. I found Aurulent Sans which I thought was beautiful, but it was hazardous for programming because the similarities between zeroes and ohs and ones and els were too close for comfort.
+Edlo is a modified version of Stephen G. Hartke's "Aurulent Sans":http://www.dafont.com/aurulent-sans-mono.font, which I thought was beautiful, but hazardous for programming because the similarities between zeroes and ohs and ones and els were too close for comfort.
 
 Edlo is the marriage of these edits and Mr. Hartke's original vision. The zero now has a dot in the middle of it, and the lowercase el has its left leg chopped off, making all of these characters unique.
 
@@ -16,20 +14,17 @@ Click "Downloads" at the top right, then download the zipped source (.tar.gz or 
 
 h3. Sublime Text 2 Specific
 
-I have these options set up for my User File Preferences:
+I have these font options set up in my User File Preferences:
 
 bc. {
-	"color_scheme": "Packages/Color Scheme - Default/Tomorrow-Night.tmTheme",
-	"fallback_encoding": "UTF-8",
+	[...]
 	"font_face": "Edlo",
 	"font_options":
 	[
 		"gray_antialias"
 	],
 	"font_size": 14,
-	"spell_check": false,
-	"translate_tabs_to_spaces": true,
-	"word_wrap": false
+	[...]
 }
 
 
