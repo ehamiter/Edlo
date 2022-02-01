@@ -12,8 +12,8 @@ h3. Installation
 
 If you have "homebrew":http://http://brew.sh/ and "cask":http://http://caskroom.io/ installed, you can install it simply using
 
-@brew tap caskroom/fonts           # If you've already tapped this cask, no need to do it again@
-@brew cask install font-edlo@
+@brew tap homebrew/cask-fonts           # If you've already tapped this cask, no need to do it again@
+@brew install font-edlo@
 
 If you would like to do it manually, click "Downloads" at the top right, then download the zipped source (.tar.gz or .zip). Unarchive and install "edlo.ttf" on your local machine.
 
